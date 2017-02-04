@@ -1,0 +1,16 @@
+---
+layout: post
+title: "GIT"
+date: 2015-06-03 12:50:26 +0900
+comments: true
+categories: 
+published: false
+---
+## Git
+
+.gitignore로 관리되던 파일 제거하려면
+http://stackoverflow.com/a/11451731
+`git rm -r --cached .`
+
+## References
+* [Getting Git Right](https://www.atlassian.com/git)
